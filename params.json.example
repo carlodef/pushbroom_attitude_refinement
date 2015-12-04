@@ -1,0 +1,11 @@
+{
+  "camera": {
+    "instrument": "pleiades",
+    "orbit": "pleiades",
+    "view": { "psi_x": 5, "psi_y": 1, "gamma": 192 }
+  },
+  "points" : [[0, 0], [1000, 3000], [2000, 6000], [3000, 9000]],
+  "sigma" : [0.2, 0.1],
+  "perturbation_degree": 1,
+  "perturbation_amplitude": 50e-6
+}
